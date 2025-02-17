@@ -23,5 +23,5 @@
     echo "<br>";
     echo "y" <=> "x"; // Outputs: 1
     echo "<br>";
-    echo "executed by Meghna";
+    echo "executed by Nishita";
 ?>
