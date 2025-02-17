@@ -5,5 +5,5 @@
     $handle = fopen("9.txt", "r");
     var_dump($handle);
     echo "<br>";
-    echo "executed by Meghna";
+    echo "executed by Nishita";
 ?>
