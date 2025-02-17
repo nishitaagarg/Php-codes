@@ -22,6 +22,6 @@
     $x = 100;
     $x %= 15;
     echo "$x <br>"; // Outputs: 10
-    echo "executed by Meghna";
+    echo "executed by Nishita";
 
 ?>
