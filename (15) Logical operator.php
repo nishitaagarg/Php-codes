@@ -12,6 +12,6 @@
         echo "$year is not a leap year.";
     }
     echo "<br>";
-    echo "executed by Meghna";
+    echo "executed by Nishita";
 
 ?>
