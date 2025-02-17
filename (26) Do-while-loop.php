@@ -6,6 +6,6 @@
         $i++;
     } while ($i <= 3);
     
-    echo "executed by Meghna";
+    echo "executed by Nishita";
 
 ?> 
