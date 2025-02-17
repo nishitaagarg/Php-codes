@@ -13,6 +13,6 @@
         echo "$a is smaller than $b<br>";
     }
 
-    echo "executed by Meghna";
+    echo "executed by Nishita";
 
 ?>
