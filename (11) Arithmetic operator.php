@@ -10,6 +10,6 @@
     echo "$x / $y = ". ($x / $y) . "<br>"; // 0utputs: 2.5
     echo "$x % $y = ". ($x % $y) . "<br>"; // 0utputs: 2
     echo "<br>";
-    echo "executed by Meghna";
+    echo "executed by Nishita";
 
 ?>
