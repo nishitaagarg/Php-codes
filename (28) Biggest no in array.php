@@ -10,6 +10,6 @@ for ($i = 1; $i < count($array); $i++) {
 }
 
 echo "The biggest number is " . $num . "<br>";
-echo "executed by Meghna";
+echo "executed by Nishita";
 
 ?>
