@@ -6,6 +6,6 @@
     {
         echo "Out of $a and $b, $a is smaller..<br>" ;
     }
-    echo "executed by Meghna";
+    echo "executed by Nishita";
 
 ?>
