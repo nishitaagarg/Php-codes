@@ -16,6 +16,6 @@
             echo "Your favorite color is neither red, blue, nor green!<br>";
     }
 
-    echo "executed by Meghna";
+    echo "executed by Nishita";
     
 ?> 
